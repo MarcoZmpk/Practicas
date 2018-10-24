@@ -1,6 +1,9 @@
+# Practica 11
+
 ### **Objetivo del cliente:** 
 Desarrollar una herramienta que permita sumar y restar dos números. Desplegar el resultado en un campo de texto una vez que se presiona un boton.
 
+---
 Requisitos: 
 - ¿Qué tipo de múmeros?
 > Todos los números reales, enteros, punto decimal
@@ -29,7 +32,8 @@ Requisitos:
 Notas:
   - **Agregar un botón de borrar**
   
-**Objetivo:**
+---
+### **Objetivo:**
 Desarrollar una herramienta que permita sumar y restar el conjunto de números reales, enteros.
 El resultado se debe de desplegar una vez que se presionó el boton de "Resultado" en la aplicación y no debe de ser mayor a 4 dígitos. 
 Se debe de realizar la operación de acuerdo a la opción seleccionada.
@@ -38,7 +42,8 @@ Los datos introducidos no deben de ser mayores a 3 dígitos.
 El tamaño de letra debe de ser de 16px para los campos de entrada y el resultado
 Los campos en la forma solo deben de aceptar números
 
-**Análisis de Requisitos**
+---
+### **Análisis de Requisitos**
   1.  Desarrollar una herramienta que permita sumar y restar el conjunto de números reales, enteros.
 - [x] Único
 - [x] No es contradictorio
@@ -86,4 +91,8 @@ Los campos en la forma solo deben de aceptar números
 - [x] No es contradictorio
 - [x] Se puede probar
 - [x] No es ambiguo
+  
+  ---
+  ### **Caso de prueba**
+  
   
